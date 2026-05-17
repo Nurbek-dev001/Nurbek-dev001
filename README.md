@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working Data Analysr and AI engineer and I am now Studying at AITU 
+I am working Data Analyst and AI engineer and I am now Studying at AITU 
 
 
 # 💻 Tech Stack:
